@@ -10,5 +10,3 @@ This is the configuration file for the structure of SCA-YOLOv5s model.
 # Data
 Images of 147 (20%) were selected from alate aphid image dataset as the validation data in our paper
 
-# Yolov5-5.0
-This is a baseline model of the SCA-YOLOv5s model
