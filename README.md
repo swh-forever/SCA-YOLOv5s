@@ -7,6 +7,7 @@ This is the code for the idea of linear scaling in anchor box optimization.
 # Models
 This is the configuration file for the structure of SCA-YOLOv5s model.
 
-# Data
-Images of 147 (20%) were selected from alate aphid image dataset as the validation data in our paper
+# Dataset
+We used a publicly available dataset, which is available for download below:
+
 
